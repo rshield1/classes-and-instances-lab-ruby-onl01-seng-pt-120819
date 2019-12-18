@@ -1,8 +1,8 @@
 class Dog
 end
 
-toby = Dog.new
-clifford = Dog.new
-max = Dog.new
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
 
 
